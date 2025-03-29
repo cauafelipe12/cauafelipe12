@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Cauã!
+# 🫡 Olá, eu sou Cauã!
 
 Sou estudante de **Desenvolvimento Web com PHP** e estou aprendendo a construir aplicações web modernas. Este repositório serve como meu portfólio de projetos e exercícios do curso. 🚀
 
